@@ -1,0 +1,270 @@
+{
+    "_id": "5c0ea3507a6e7a449756a44e",
+    "firstName": "Amir",
+    "lastName": "Suhail",
+    "employeeId": "test1",
+    "timeTable": [
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a485",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a484",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a483",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a482",
+                    "class": "4",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "12:00",
+                    "endTime": "12:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a481",
+                    "class": "5",
+                    "sec": "A",
+                    "subject": "Value Education",
+                    "startTime": "14:00",
+                    "endTime": "14:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a480",
+            "day": "Monday"
+        },
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a47f",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a47e",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a47d",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a47c",
+                    "class": "4",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "12:00",
+                    "endTime": "12:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a47b",
+                    "class": "5",
+                    "sec": "A",
+                    "subject": "Value Education",
+                    "startTime": "14:00",
+                    "endTime": "14:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a47a",
+            "day": "Tuesday"
+        },
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a479",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a478",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a477",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a476",
+                    "class": "4",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "12:00",
+                    "endTime": "12:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a475",
+                    "class": "5",
+                    "sec": "A",
+                    "subject": "Value Education",
+                    "startTime": "14:00",
+                    "endTime": "14:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a474",
+            "day": "Wednesday"
+        },
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a473",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a472",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a471",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a470",
+                    "class": "4",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "12:00",
+                    "endTime": "12:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a46f",
+                    "class": "5",
+                    "sec": "A",
+                    "subject": "Value Education",
+                    "startTime": "14:00",
+                    "endTime": "14:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a46e",
+            "day": "Thursday"
+        },
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a46d",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a46c",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a46b",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a46a",
+                    "class": "4",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "12:00",
+                    "endTime": "12:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a469",
+                    "class": "5",
+                    "sec": "A",
+                    "subject": "Value Education",
+                    "startTime": "14:00",
+                    "endTime": "14:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a468",
+            "day": "Friday"
+        },
+        {
+            "value": [
+                {
+                    "_id": "5c0eb06e7a6e7a449756a467",
+                    "class": "3",
+                    "sec": "A",
+                    "subject": "English",
+                    "startTime": "9:00",
+                    "endTime": "9:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a466",
+                    "class": "7",
+                    "sec": "A",
+                    "subject": "English Grammer",
+                    "startTime": "10:00",
+                    "endTime": "10:30"
+                },
+                {
+                    "_id": "5c0eb06e7a6e7a449756a465",
+                    "class": "3",
+                    "sec": "B",
+                    "subject": "English",
+                    "startTime": "11:00",
+                    "endTime": "11:30"
+                }
+            ],
+            "_id": "5c0eb06e7a6e7a449756a464",
+            "day": "Saturday"
+        }
+    ],
+    "lastUpdated": "2018-12-10T18:29:02.767Z",
+    "__v": 0
+}

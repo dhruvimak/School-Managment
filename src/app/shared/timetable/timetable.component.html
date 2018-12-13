@@ -1,0 +1,47 @@
+<div class="content">
+  <div class="container">
+    <aside id="sidebar" class="timetable">
+      <div class="widget clearfix calendar">
+        <div class="head">
+          <a class="prev" href="#"></a>
+          <a class="next" href="#"></a>
+          <h4>{{ today | date : "MMMM - y" }}</h4>
+        </div>
+        <div class="table">
+          <table>
+            <!-- <tr>
+              <th class="col-1">Mon</th>
+              <th class="col-2">Tue</th>
+              <th class="col-3">Wed</th>
+              <th class="col-4">Thu</th>
+              <th class="col-5">Fri</th>
+              <th class="col-6">Sat</th>
+              <th class="col-7">Sun</th>
+            </tr> -->
+            <tr *ngFor="let periods of timetable">
+                <th class="col-1">{{periods.day}}</th>
+              <td *ngFor="let period of periods.value">
+                <div>{{period.subject}}
+                  <span>{{period.class}} - {{period.sec}}</span>
+                </div>
+              </td>
+            </tr>
+            <!-- <tr>
+              <td class="col-1 disable"><div>English<span>4A</span></div></td>
+              <td class="col-2"><div>1</div></td>
+              <td class="col-3"><div>2</div></td>
+              <td class="col-4"><div>3</div></td>
+              <td class="col-5 archival"><div>4</div></td>
+              <td class="col-6"><div>5</div></td>
+              <td class="col-7"><div>6</div></td>
+            </tr>       -->
+          </table>
+        </div>
+      </div>
+
+    </aside>
+    <!-- / sidebar -->
+
+  </div>
+  <!-- / container -->
+</div>
